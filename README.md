@@ -27,7 +27,7 @@ Si vous souhaitez remettre le projet à zéro et détruire ce qui a été créé
 
 ------------------------
 
-
+Les fichiers sont grandement inspirés de cet article : https://medium.com/@aliatakan/terraform-create-a-vpc-subnets-and-more-6ef43f0bf4c1
 
 ## I - Terraform
 
